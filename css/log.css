@@ -1,0 +1,75 @@
+
+.content_left>a{
+    background: url(https://f1.jmstatic.com/static_passport/dist/v1.0.137928/images/account/login_sign/loginPic.jpg?1);
+}
+.content_right>form>input:nth-child(1){
+    border:1px solid #CFCFCF ;
+    width: 295px;
+    height: 30px;
+    padding: 5px;
+    color: #A075A0;
+    margin-top: 35px;
+    text-indent: 20px;
+     background: url(https://f1.jmstatic.com/static_passport/dist/v1.0.137928/images/account/login_sign/sign.png?2) no-repeat;
+}
+.content_right>form>input:nth-child(2){
+     border:1px solid #CFCFCF ;
+    width: 295px;
+    height: 30px;
+    padding: 5px;
+    color: #A075A0;
+    margin-top: 35px;
+    text-indent: 20px;
+    background: url(https://f1.jmstatic.com/static_passport/dist/v1.0.137928/images/account/login_sign/sign.png?2) no-repeat 0px -50px;
+}
+#tj{
+    width: 310px;
+    height: 50px;
+    background-color: #F8296D;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    background-image: none;
+    text-indent: 0px;
+}
+.content_right>form>a{
+    color: #F8296D;
+    margin: 5px;
+}
+.content_right>form>input:nth-child(3){
+    margin: 20px 0;
+}
+.content_right>form>a{
+    color: #000000;
+    display: block;
+    float: right;
+    margin-top: 20px;
+}
+.content_right>form>a:hover{
+    text-decoration: underline;
+}
+.ts>a{
+    display: block;
+    text-indent: -9999px;
+    background: url(https://f4.jmstatic.com/static_passport/dist/v1.0.137928/images/icon_light.jpg);
+    background-repeat: no-repeat;
+    width: 43px;
+    height: 43px;
+
+    float: left;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.ts>a:nth-child(2){
+    background: url(https://f4.jmstatic.com/static_passport/dist/v1.0.137928/images/icon_light.jpg) 0px -53px;
+}
+.ts>a:nth-child(3){
+    background: url(https://f4.jmstatic.com/static_passport/dist/v1.0.137928/images/icon_light.jpg) 66px -98px;
+}
+.ts>a:nth-child(4){
+    background: url(https://f4.jmstatic.com/static_passport/dist/v1.0.137928/images/icon_light.jpg) 177px -98px;
+}
+.ts>a:nth-child(5){
+    background: url(https://f4.jmstatic.com/static_passport/dist/v1.0.137928/images/icon_light.jpg) 234px -98px;
+}

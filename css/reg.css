@@ -1,0 +1,27 @@
+.content_left>a{
+    background: url(https://f4.jmstatic.com/static_passport/dist/v1.0.137928/images/account/login_sign/signPic.jpg?);
+}
+.content_right>form>input{
+    border:1px solid #CFCFCF ;
+    width: 295px;
+    height: 30px;
+    padding: 5px;
+    color: #A075A0;
+    margin-top: 35px;
+   
+}
+#tj{
+    width: 310px;
+    height: 50px;
+    background-color: #F8296D;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.content_right>form>a{
+    color: #F8296D;
+    margin: 5px;
+}
+         
+
